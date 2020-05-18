@@ -2,7 +2,7 @@
 
 La motivación que me ha llevado a crear esto, ha sido el querer disminuir los campos electromagnéticos a los que me expongo día a día.
 
-Gracias a este pequeño script tengo la opción de encender/apagar la red inalámbrica de forma pragmática (muy útil por ejemplo, si quieres programarlo
+Gracias a este pequeño script tengo la opción de encender/apagar la red inalámbrica de forma pragmática (muy útil por ejemplo si quieres programarlo
 para que deje de emitir todos los días a la hora que te vas a dormir).
 
 Dr. Robert Rowen hablando sobre la radiación electromagnética y como nos afecta en el cuerpo:
