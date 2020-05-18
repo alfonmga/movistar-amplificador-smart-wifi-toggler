@@ -30,6 +30,6 @@ Crear un archivo `.env` que contengan los siguientes valores secretos:
 Uso
 ---
 ```sh
- yarn on # desactivar
- yarn off # encender
+ yarn on # encender
+ yarn off # apagar
 ```
