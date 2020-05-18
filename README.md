@@ -13,7 +13,7 @@ Dr. Robert Rowen hablando sobre la radiación electromagnética y como nos afect
   </a>
 </p>
 
-[PDF con más información relacionada con este tema.](./manual_basico_atenuancion_señales.pdf)
+[PDF con más información relacionada con este tema.](https://github.com/alfonmga/movistar-amplificador-smart-wifi-toggler/raw/master/manual_basico_atenuancion_señales.pdf)
 
 ## Instalación
 
