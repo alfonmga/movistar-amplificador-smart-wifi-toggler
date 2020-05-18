@@ -1,0 +1,23 @@
+{
+  "name": "amplificador-smart-wifi-toggler",
+  "version": "1.0.0",
+  "description": "Scripts para apagar/encender el amplificador smart wifi de Movistar",
+  "main": "common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonmga/amplificador-smart-wifi-toggler.git"
+  },
+  "author": "Alfonso M. García Astorga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonmga/amplificador-smart-wifi-toggler/issues"
+  },
+  "homepage": "https://github.com/alfonmga/amplificador-smart-wifi-toggler#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^3.1.0"
+  }
+}
