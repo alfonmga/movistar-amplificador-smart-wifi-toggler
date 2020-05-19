@@ -25,7 +25,7 @@ Clonar repositorio e instalar dependencias:
   yarn install
 ```
 
-Crear un archivo `.env` que contengan los siguientes valores secretos:
+Crear un archivo `.env` que contenga los siguientes valores secretos:
 
 ```dosini
   DEVICE_IP=<insertar-ip-dispositivo>
